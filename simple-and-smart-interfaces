@@ -1,0 +1,46 @@
+Team Name: Simple & Smart Interfaces
+
+Team members
+
+(i) Sanjeev Kumar (ii) Sukhram Bharti
+
+Chatbot Title – Lending Helper
+
+Inspiration
+
+The human computer interaction is/will be changing like never before! Automatic Speech Recognition(ASR), Natural Language Processing/Understanding (NLP/NLU) and Text To Speech (TTS) makes it possible to interact with computers using natural language using voice and text respectively. Availability of ASR, NLU and TTS services and API from leading cloud vendors makes it easy to adopt these technologies within enterprise.
+
+Solution Description
+
+This Lending Helper chat-bot solution is providing intelligent help for customers to their Lending requirements.
+
+The solution provide capability to serve below customer intetnets through chat channel.
+
+Initiate new Lending application
+Check the status of their Lending application
+Closure of any existing in-progress Lending application.
+< to include more details >
+
+Built with:
+
+Watson Assistant
+IBM Cloudant DB
+NodeJS
+IBM Cloud Function
+Watson Discovery
+Watson Tone Analyser
+Actors:
+
+< dialog between whom >
+
+Accomplishment :
+
+< what makes you feeling great with this chat? What you have accomplished >
+
+What I Learnt:
+
+Challenges:
+
+What’s next:
+
+Try it out:
